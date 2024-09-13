@@ -51,12 +51,16 @@ Coletar os dados
 - [x] Criação e manipulação de dados
 - [x] Acesso a propriedades de objetos
 
-## Functions
+### Functions
 
 - [x] Criar
 - [x] Executar 
 - [x] Arrow function / named function 
 
-## Estrutura de repetição
+# Estrutura de repetição
 
 - [x] while
+
+# Condicionais
+
+- [x] switch
