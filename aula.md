@@ -39,12 +39,15 @@ Coletar os dados
 - [x] Operador de atribuição de valor: =
 - [x] Operador de concatenação: +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] spread operator: ...
 
 ## Estruturas de dados 
 
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+
 
 ### Objetos:
 
