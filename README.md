@@ -11,7 +11,7 @@ você pode:
 
 A persistência de dados foi realizada através do formato JSON
 
-https://github.com/user-attachments/assets/e55f441d-54a6-4d01-8254-c4520f3ce759
+https://github.com/user-attachments/assets/a6ed6bd5-6478-420a-bf1c-b4033e9450b9
 
 
 
