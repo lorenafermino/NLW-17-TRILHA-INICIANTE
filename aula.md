@@ -19,7 +19,7 @@ Como um lego, você vai utilizar as peças que existem na programação para cri
 
 ## Fases da resolução de um problema:
 
-Coletar os dados
+- [x] Coletar os dados
 - [x] Processar os dados (manipular, alterar...)
 - [x] Apresentar os dados
 
@@ -46,7 +46,7 @@ Coletar os dados
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 
 ### Objetos:
